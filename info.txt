@@ -1,0 +1,17 @@
+echo "# gitminksole3" >> README.md - create readmefile
+git init  - intialize folder with git
+git add README.md - working to staging
+git commit -m "first commit" - staging to local repo
+git branch -M main - create a main branch
+git remote add origin https://github.com/chinmayd1/gitminksole3.git - connect local to remote repo
+git push -u origin main - push code to remote
+
+
+git add .
+git commit -m "added"
+git push
+
+tracking ?? to see the difference
+
+git status
+git diff filename
