@@ -17,3 +17,6 @@ git status
 git diff filename
 git checkout HEAD - my working will similar to last commit(local repo)
 git reset HEAD filename  - unstaged
+
+git show HEAD
+git log
