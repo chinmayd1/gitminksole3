@@ -19,4 +19,10 @@ git checkout HEAD - my working will similar to last commit(local repo)
 git reset HEAD filename  - unstaged
 
 git show HEAD
-git log
+git log - every commit has unique id
+
+git branch
+git branch "branchA"
+git add .
+git commit -m "new"
+git push and copy command 
